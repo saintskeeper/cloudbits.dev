@@ -9,6 +9,11 @@ This repository serves as a launch point for hosting the development of CloudBit
 ### NOTE
 - I'm a cloud architect  by trade and new to web development. Any input or pull requests are welcome.
 
+### TODO
+- [ ] add podcast section
+- [ ] move to typescript
+- [ ] configure github url and other github related stuff
+- [ ] create github workflow for CI/CD
 
 
 Thanks for reading and happy hunting!
