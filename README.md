@@ -14,6 +14,7 @@ This repository serves as a launch point for hosting the development of CloudBit
 - [ ] move to typescript
 - [ ] configure github url and other github related stuff
 - [ ] create github workflow for CI/CD
+- [ ] work on UI/UX
 
 
 Thanks for reading and happy hunting!
