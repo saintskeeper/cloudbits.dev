@@ -11,16 +11,6 @@ export default function Metatags({
           async
           src="https://www.googletagmanager.com/gtag/js?id=[Tracking ID]"
         />
-        <script
-        dangerouslySetInnerHTML={{
-        __html: `
-          window.dataLayer = window.dataLayer || [];
-          function gtag(){dataLayer.push(arguments);}
-          gtag('js', new Date());
-          gtag('config', '[G-DBBW6VELEC]'),{ page_path: window.location.pathname });;
-          `,
-        }}
-        />
       <title>{title}</title>
       <meta name="twitter:card" content="summary" />
 
